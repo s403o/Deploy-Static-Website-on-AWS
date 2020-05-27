@@ -1,5 +1,5 @@
 # Deploy Static Website on AWS
-* In this project, i will deploy a static website to AWS using S3, CloudFront, and IAM.
+### In this project, i will deploy a static website to AWS using S3, CloudFront, and IAM.
 
 ## Step-1
   * S3 Bucket: to make a storage and upload the website files on it and set the Permissions to make it public.
