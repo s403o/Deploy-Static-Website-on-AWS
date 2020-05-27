@@ -8,7 +8,7 @@
 ## Step-3 
   * Configure S3 Bucket: in a static web hosing (changing the index and error both to index.html).
 ## Step-4 
-  * Distribute Website via CloudFront: to deploying our website and changing the path to / which it means the root path and our domain we created in step1 finnaly the ID and let everything default then we get the domain value like domain.cloudfront.net [myWork](www.d2349cov2ak85p.cloudfront.net/index.html).
+  * Distribute Website via CloudFront: speed up content delivery using AWS’s content distribution network service, CloudFront. [myWork](www.d2349cov2ak85p.cloudfront.net/index.html).
 ## Step-5 
   * Access Website in Web Browser: open any web browser and copy the url on it and type at the end of the link /index.html then the website will displays in your browser, [myWork](https://semo-web.s3.amazonaws.com/index.html).
 
